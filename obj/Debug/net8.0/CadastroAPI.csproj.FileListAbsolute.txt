@@ -68,3 +68,4 @@ C:\Users\felip\source\repos\CadastroAPI\CadastroAPI\obj\Debug\net8.0\refint\Cada
 C:\Users\felip\source\repos\CadastroAPI\CadastroAPI\obj\Debug\net8.0\CadastroAPI.pdb
 C:\Users\felip\source\repos\CadastroAPI\CadastroAPI\obj\Debug\net8.0\CadastroAPI.genruntimeconfig.cache
 C:\Users\felip\source\repos\CadastroAPI\CadastroAPI\obj\Debug\net8.0\ref\CadastroAPI.dll
+C:\Users\felip\source\repos\CadastroAPI\CadastroAPI\obj\Debug\net8.0\CadastroAPI.sourcelink.json
