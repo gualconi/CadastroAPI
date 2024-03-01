@@ -36,7 +36,7 @@ namespace SeuNamespace
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Nome da Sua API v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Cadastro de Pessoas v1"));
             }
 
             app.UseHttpsRedirection();
